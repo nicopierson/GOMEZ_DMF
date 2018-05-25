@@ -1,0 +1,11 @@
+Links to resources:
+
+http://www.gaudi.ch/OpenDrop/
+- go to devices to find the projects
+
+board design
+https://oshpark.com
+
+two layer prototype guidelines
+http://docs.oshpark.com/services/two-layer/
+
